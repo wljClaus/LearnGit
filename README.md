@@ -1,2 +1,5 @@
 # LearnGit
-学习git使用，同时将SourceTree连接git库
+
+学习 git 使用，同时将 SourceTree 连接 git 库.
+
+第一次提交
